@@ -128,3 +128,5 @@ Finally, there is a fully connected softmax output layer ŷ with 10 possible val
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 5. Results
+
+• Model Accuracy >= 0.99 (with Data Augmentation)
