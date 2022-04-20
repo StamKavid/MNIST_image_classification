@@ -1,4 +1,4 @@
-# MNIST: Image Classification | Overview
+# MNIST: Image Classification | Overview (WIP)
 
 In this project you will find Image Clasiifcation problem using MNIST datasource. More specifically:
 1. Problem Statement 
