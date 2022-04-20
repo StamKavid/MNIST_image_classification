@@ -5,7 +5,6 @@ In this project you will find Image Clasiifcation problem using MNIST datasource
 2. Data source | Overview
 3. EDA | Data Augmentation
 4. CNN | DL
-5. Results
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -125,8 +124,9 @@ The sixth layer is a fully connected layer with 84 units.
 
 Finally, there is a fully connected softmax output layer ŷ with 10 possible values corresponding to the digits from 0 to 9.
 
+## Architecture Used for MNIST classification
+
+![](https://github.com/StamKavid/MNIST_image_classification/blob/main/Images/MNIST_model_arch.jpg)
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## 5. Results
-
-• Model Accuracy >= 0.99 (with Data Augmentation)
