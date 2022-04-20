@@ -1,7 +1,7 @@
 # MNIST: Image Classification | Overview (WIP)
 
 In this project you will find Image Clasiifcation problem using MNIST datasource. More specifically:
-1. Problem Statement 
+1. Problem Statement | Image Classification
 2. Data source | Overview
 3. EDA | Data Augmentation
 4. CNN | DL
